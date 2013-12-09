@@ -1,0 +1,16 @@
+{
+  "name": "str2js",
+  "version": "0.0.0",
+  "author": "Tiago Quelhas <tiagoq@gmail.com>",
+  "description": "Utility to convert strings into Javascript assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "coffee-script": "~1.6.3",
+    "chai": "~1.8.1"
+  }
+}
